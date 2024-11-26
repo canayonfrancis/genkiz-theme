@@ -42,7 +42,6 @@ const Edit = ( { attributes, setAttributes } ) => {
 	return (
 		<div { ...useBlockProps()  } className='box flex flex-wrap'>
 			<TextControl
-				
 				className='w-full'
 				label="Title"
 				value={ title }

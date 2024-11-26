@@ -15,7 +15,9 @@
     "@wordpress/element": "^6.9.0",
     "@wordpress/i18n": "^5.9.0",
     "autoprefixer": "^10.4.20",
+    "leaflet": "^1.9.4",
     "postcss": "^8.4.47",
+    "react-leaflet": "^4.2.1",
     "tailwindcss": "^3.4.13"
   },
   "devDependencies": {
