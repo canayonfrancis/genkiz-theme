@@ -6,16 +6,12 @@
 	"title": "Flowchart",
 	"category": "common",
 	"icon": "columns",
-	"keywords": [ "custom", "block" ],
+	"keywords": ["custom", "block"],
 	"description": "A flowchart like design",
 	"attributes": {
 		"step": {
-			"type": "object",
-			"default": {
-				"title": "",
-				"content": "",
-				"image": ""
-			}
+			"type": "array",
+			"default": []
 		}
 	},
 	"textdomain": "blocks/flowchart",
@@ -23,5 +19,4 @@
 	"editorStyle": "file:./index.css",
 	"style": "file:./style-index.css",
 	"viewScript": "file:./view.js"
-
 }
