@@ -16,7 +16,8 @@ import './style.scss';
 
 /**
  * Internal dependencies
- */genkiz/flowchart
+ *genkiz/flowchart
+ */
 import Edit from './edit';
 import save from './save';
 import metadata from './block.json';

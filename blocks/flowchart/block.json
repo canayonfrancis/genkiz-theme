@@ -15,7 +15,9 @@
 				"title": "",
 				"content": "",
 				"image": ""
-			}
+			},
+			"type": "array",
+			"default": []
 		}
 	},
 	"textdomain": "blocks/flowchart",
