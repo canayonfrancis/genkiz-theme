@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "genkiz/flowchart",
+	"version": "0.1.0",
+	"title": "Flowchart",
+	"category": "common",
+	"icon": "columns",
+	"keywords": [ "custom", "block" ],
+	"description": "A flowchart like design",
+	"attributes": {
+		"step": {
+			"type": "object",
+			"default": {
+				"title": "",
+				"content": "",
+				"image": ""
+			}
+		}
+	},
+	"textdomain": "blocks/flowchart",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css",
+	"viewScript": "file:./view.js"
+
+}
