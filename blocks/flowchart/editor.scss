@@ -1,0 +1,40 @@
+/**
+ * The following styles get applied inside the editor only.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+ /* Restrict the image size in the editor */
+.flowchart-block img {
+    max-width: 100%; /* Prevents the image from exceeding the container width */
+    height: auto; /* Maintains the image aspect ratio */
+    display: block; /* Ensures the image doesn’t cause inline styling issues */
+}
+
+/* Optional: Add some padding/margin to prevent overlapping with other elements */
+.flowchart-block .button img {
+    margin: 10px 0; /* Adds spacing around the image */
+    border-radius: 8px; /* Adds some aesthetic rounding */
+}
+
+/* Add styles for the image wrapper */
+.flowchart-block .image-wrapper {
+    max-width: 300px; /* Limits the maximum width of the image */
+    overflow: hidden; /* Ensures images don’t exceed the container */
+    text-align: center; /* Centers the image within the wrapper */
+}
+
+.flowchart-block .image-wrapper img {
+    width: 100%; /* Makes the image responsive */
+    height: auto; /* Maintains aspect ratio */
+}
+
+.components-button {
+    justify-content: end;
+    img {
+        width: 80%;
+    }
+}
+
+
+
