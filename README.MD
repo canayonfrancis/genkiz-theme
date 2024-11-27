@@ -1,4 +1,4 @@
-# Genkiz WordPress Theme with Gutenberg Blocks
+# PACE WordPress Theme with Gutenberg Blocks
 
 This is a custom WordPress theme designed to leverage Gutenberg blocks powered by npm. Follow the instructions below to clone the theme, set it up, and activate it.
 
@@ -23,14 +23,14 @@ This is a custom WordPress theme designed to leverage Gutenberg blocks powered b
    ```
 2. Clone the theme repository using git:
    ```bash
-    git clone https://github.com/flyingcoder/genkiz-theme.git
+    git clone https://github.com/flyingcoder/PACE-theme.git
    ```
 
 ### Step 2: Install Dependencies
 
 1. Navigate into the theme directory:
    ```bash
-    cd genkiz
+    cd PACE
    ```
 2. Install the npm packages:
    ```bash
@@ -48,4 +48,4 @@ This is a custom WordPress theme designed to leverage Gutenberg blocks powered b
 
 1. Log in to your WordPress admin dashboard.
 2. Go to Appearance > Themes.
-3. Find Genkiz theme in the list and click on the Activate button.
+3. Find PACE theme in the list and click on the Activate button.

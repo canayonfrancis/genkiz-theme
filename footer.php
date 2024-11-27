@@ -2,7 +2,7 @@
 /**
  * The footer for our theme
  *
- * @package Genkiz
+ * @package PACE
  */
 ?>
 

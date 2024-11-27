@@ -2,7 +2,7 @@
 /**
  * The main template file
  *
- * @package Genkiz
+ * @package PACE
  */
 
 get_header(); ?>
