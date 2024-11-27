@@ -14,7 +14,6 @@ function genkiz_blocks()
         get_template_directory() . '/build/test-block/block.json',
         get_template_directory() . '/build/hero/block.json',
         get_template_directory() . '/build/text-left-image-right-block/block.json',
-        get_template_directory() . '/build/flowchart/block.json',
         // get_template_directory() . '/build/custom-map-block/block.json',
     ];
 
